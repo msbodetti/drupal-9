@@ -1,0 +1,5 @@
+ninja_stats.add_form:
+  route_name: entity.ninja_stats.add_form
+  title: 'Add ninja stats'
+  appears_on:
+    - entity.ninja_stats.collection

@@ -1,0 +1,10 @@
+entity.ninja_stats.settings:
+  title: Ninja Stats
+  description: Configure a Ninja Stats entity type
+  route_name:  entity.ninja_stats.settings
+  parent: system.admin_structure
+entity.ninja_stats.collection:
+  title: Ninja Statses
+  description: List of ninja statses
+  route_name: entity.ninja_stats.collection
+  parent: system.admin_content

@@ -1,0 +1,13 @@
+administer ninja stats:
+  title: 'Administer ninja stats settings'
+  restrict access: true
+access ninja stats overview:
+  title: 'Access ninja stats overview page'
+delete ninja stats:
+  title: Delete ninja stats
+create ninja stats:
+  title: Create ninja stats
+view ninja stats:
+  title: View ninja stats
+edit ninja stats:
+  title: Edit ninja stats

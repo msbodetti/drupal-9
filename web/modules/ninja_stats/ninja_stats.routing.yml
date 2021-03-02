@@ -1,0 +1,7 @@
+entity.ninja_stats.settings:
+  path: 'admin/structure/ninja-stats'
+  defaults:
+    _form: '\Drupal\ninja_stats\Form\NinjaStatsSettingsForm'
+    _title: 'Ninja Stats'
+  requirements:
+    _permission: 'administer ninja stats'

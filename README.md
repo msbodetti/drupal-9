@@ -30,5 +30,6 @@ lando info
 5. Enable custom Ninja Stats Content Entity module in the browser OR run
 ``lando drush en ninja_stats``
 6. Add new ninja_stats item in browser i.e. Manager > Content > Ninja Stats
-7. Check out the jsonapi for the Ninja Stat i.e. ``http://drupal-9.lndo.site:8000/jsonapi/ninja_stat/ninja_stat/``
+7. Enable JSON API module in browser i.e. Manager > Extend > JSON:API (Optionally install and enable JSON:API Extra and JSON API Defaults for extra settings)
+8. Check out the jsonapi for the Ninja Stat i.e. ``http://drupal-9.lndo.site:8000/jsonapi/ninja_stats/ninja_stats/``
 

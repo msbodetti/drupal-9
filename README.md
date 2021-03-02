@@ -8,7 +8,7 @@ dependencies with [Composer](https://getcomposer.org/).
 ## Requirements
 - Lando https://docs.lando.dev/basics/
 - Composer https://getcomposer.org/
-- PHP 7.3^
+- PHP 7.4^
 
 ## Install
 1. Clone and go into repo

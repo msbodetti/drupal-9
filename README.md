@@ -33,3 +33,4 @@ lando info
 7. Enable JSON API module in browser i.e. Manager > Extend > JSON:API (Optionally install and enable JSON:API Extra and JSON API Defaults for extra settings)
 8. Check out the jsonapi for the Ninja Stat i.e. ``http://drupal-9.lndo.site:8000/jsonapi/ninja_stats/ninja_stats/``
 
+A video guide: https://www.youtube.com/embed/0bT-0vVj_fE
